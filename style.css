@@ -90,7 +90,7 @@ h1 {
 	border: none;
 	color: #55E6C1;
 	font-size: 1.4rem;
-	font-family: 'Hind', sans-serif;
+	font-family: 'Hind', monospace;
 	margin: 0 0.5rem;
 	cursor: pointer;
 }
@@ -101,6 +101,6 @@ h1 {
 	border: none;
 	color: #E00;
 	font-size: 1.4rem;
-	font-family: 'Hind', sans-serif;
+	font-family: 'Hind', monospace;
 	cursor: pointer;
 }
